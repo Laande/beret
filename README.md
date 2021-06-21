@@ -4,6 +4,10 @@ Requires python >= 3.2
 
 > python -m pip install g-python
 
+# Beret
+
+Walk to the furni when its the good color
+
 # Commands
 
 `/tile` -> Double click to the furni
