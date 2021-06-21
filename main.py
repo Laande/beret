@@ -17,7 +17,7 @@ RESET = "/reset"
 import sys
 
 from g_python.gextension import Extension
-from g_python.hmessage import Direction, HMessage
+from g_python.hmessage import Direction
 
 extension_info = {
     "title": "Beret",
