@@ -1,6 +1,8 @@
 # Install
 
-https://github.com/sirjonasxx/G-Python
+Requires python >= 3.2
+
+> python -m pip install g-python
 
 # Commands
 
